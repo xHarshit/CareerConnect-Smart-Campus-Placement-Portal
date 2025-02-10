@@ -1,0 +1,23 @@
+node server.js
+
+cd Aptitude
+streamlit run AptiApp.py
+
+cd Aptitude
+streamlit run InteractiveDashboard.py
+
+cd CodingPract
+streamlit run DSA_app.py
+
+cd CodingPract
+streamlit run  DSA_dash.py
+
+cd ResumeATS
+streamlit run app.py
+
+cd MockInter
+streamlit run app.py
+
+
+Gemini API Key
+AIzaSyACg-Kw-BONRCID9XDWue-oTZcDZ9653CM
